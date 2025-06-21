@@ -1,4 +1,4 @@
-# Arduino Exercises <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+# Arduino Exercises
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/dimuzzo/arduino-exercises?style=flat-square&logo=github&label=Last%20Commit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dimuzzo/arduino-exercises?style=flat-square&logo=github&label=Repo%20Size)

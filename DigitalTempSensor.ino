@@ -1,5 +1,5 @@
 /*
-  Becchero Daniele & Demo Alessandro
+  Demo Alessandro
   4^B - Automazione
   Compito per il 25.02.2021
 
